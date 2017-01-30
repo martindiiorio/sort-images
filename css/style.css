@@ -1,0 +1,14 @@
+#sortable:hover {
+  cursor: move;
+}
+#counter {
+    position: fixed;
+    bottom: 0;
+    font-size: 1.5em;
+    background: #ccc;
+    padding: 1em;
+    font-weight: 700;
+}
+.inputFile {
+  display: none !important;
+}
